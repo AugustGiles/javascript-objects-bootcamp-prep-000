@@ -1,3 +1,5 @@
 var playlist = {PaulSimon: "Graceland"};
 
-function updatePlaylist()
+function updatePlaylist(playlist, artistName, songTitle) {
+  object.assign
+}
