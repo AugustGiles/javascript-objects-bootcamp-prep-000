@@ -11,5 +11,5 @@ function removeFromPlaylist(playlist, artistName) {
   delete playlist.artistName;
   return playlist
 }
- removeFromPlaylist({Kanye:"Gold Digger"}, "Kanye")
+ removeFromPlaylist({ Kanye: "Gold Digger" }, "Kanye")
  
