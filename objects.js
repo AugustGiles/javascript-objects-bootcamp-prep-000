@@ -1,0 +1,2 @@
+var playlist = {PaulSimon: "Graceland"};
+
