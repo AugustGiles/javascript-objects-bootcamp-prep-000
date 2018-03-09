@@ -1,4 +1,5 @@
 var playlist = { 
+  "Paul Simon": "Graceland"
   Kanye: "Gold Digger"
 };
 
