@@ -1,6 +1,6 @@
-const playlist = {PaulSimon: "Graceland"};
+const playlist = {"Paul Simon": "Graceland"};
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  var artistName = 
+  var artistName = ""
   object.assign({}, playlist, {[artistName]: songTitle})
 }
